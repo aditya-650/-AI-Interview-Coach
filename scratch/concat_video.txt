@@ -1,0 +1,8 @@
+file 'C:/Users/adity/Desktop/coding/projects/AI103/scratch/video_clips/clip_1.mp4'
+file 'C:/Users/adity/Desktop/coding/projects/AI103/scratch/video_clips/clip_2.mp4'
+file 'C:/Users/adity/Desktop/coding/projects/AI103/scratch/video_clips/clip_3.mp4'
+file 'C:/Users/adity/Desktop/coding/projects/AI103/scratch/video_clips/clip_4.mp4'
+file 'C:/Users/adity/Desktop/coding/projects/AI103/scratch/video_clips/clip_5.mp4'
+file 'C:/Users/adity/Desktop/coding/projects/AI103/scratch/video_clips/clip_6.mp4'
+file 'C:/Users/adity/Desktop/coding/projects/AI103/scratch/video_clips/clip_7.mp4'
+file 'C:/Users/adity/Desktop/coding/projects/AI103/scratch/video_clips/clip_8.mp4'
